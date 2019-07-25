@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\デスクトップ\プログラム\cutter_汎用\cutter\main.cpp(36): warning C4101: 'finish': ローカル変数は 1 度も使われていません。
+d:\デスクトップ\プログラム\cutter_汎用\cutter\main.cpp(24): warning C4101: 'name': ローカル変数は 1 度も使われていません。
+d:\デスクトップ\プログラム\cutter_汎用\cutter\main.cpp(35): warning C4101: 'start': ローカル変数は 1 度も使われていません。
+  コード生成しています。
+  11 of 13 functions (84.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  cutter.vcxproj -> D:\デスクトップ\プログラム\cutter_汎用\Release\cutter.exe
